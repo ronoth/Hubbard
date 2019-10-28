@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Allwinner_H3
+D QUAD-CORE OTT BOX PROCESSOR
+F http://linux-sunxi.org/images/4/4b/Allwinner_H3_Datasheet_V1.2.pdf
+$ENDCMP
+#
+$CMP NE555D
+D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
+F Http:  //www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+#End Doc Library
